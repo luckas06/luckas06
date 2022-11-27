@@ -2,6 +2,6 @@
 
 
 <div align="center">
-    <img width="380sm" src="https://github-readme-stats.vercel.app/api?username=Luckas06&show_icons=true&theme=dark">
-    <img width="370sm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckas06&layout=compact)](https://github.com/Luckas06/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luckas06&show_icons=true&theme=dark">
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckas06&layout=compact&langs_count=7&theme=dark">
 </div>
