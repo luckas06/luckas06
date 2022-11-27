@@ -1,4 +1,4 @@
-### **Olá** &#128566;
+### **Oioi** &#128566;
 
 <div align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Luckas06&show_icons=true&theme=dark">
