@@ -1,6 +1,6 @@
 ### **Oioi** &#128566;
 
-Cursando Desenvolvimento de Sistemas
+Técnico em Desenvolvimento de Sistemas
 
 
 <div align="center">
